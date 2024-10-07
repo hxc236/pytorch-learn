@@ -247,3 +247,15 @@ writer = SummaryWriter(comment="LR_0.1_BATCH_16")
 
 
 
+
+
+
+
+## transfrom的使用
+
+### transform的结构和用法
+
+```python
+from torchvision import transforms
+```
+

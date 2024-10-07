@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="hxcpytorch" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="hxcpytorch" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="bsnet_env" project-jdk-type="Python SDK" />
 </project>
