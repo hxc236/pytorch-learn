@@ -14,8 +14,8 @@ if __name__ == '__main__':
     tensor = tensor.unsqueeze(0)
     print('i2: ', tensor.shape)
 
-    conv = nn.Conv2d(3, 3, 3, padding=1)
-    # conv = nn.Conv2d(3, 1, 3, padding=1)
+    # conv = nn.Conv2d(3, 3, 3, padding=1)
+    conv = nn.Conv2d(3, 1, 3, padding=1)
     feature_map = conv(tensor)
 
     print('o1: ', feature_map.shape)
